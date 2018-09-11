@@ -15,3 +15,13 @@ Treehouse has online "workspaces" that allow you to code in the browser however 
 **Link(s) to work**
 
 1. [Node.js Basics Course](https://teamtreehouse.com/library/nodejs-basics-2)
+
+
+
+*Template*
+
+### Day 1: Tuesday September 11, 2018
+
+**Today's Progress*
+**Thoughts** 
+**Link(s) to work**
